@@ -5,9 +5,9 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "ua.gov.dn.agro.app"
         versionCode = "10"
-        version     = "1.1.0">
+        version     = "1.2.0">
 
-    <name>ДАПРЗВ ДОДА</name>
+    <name>Деп АПР та ЗВ ДОДА</name>
 
     <description>
         Департамент агропромислового розвитку та земельних відносин Донецької обласної державної адміністрації
